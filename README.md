@@ -10,6 +10,9 @@ Google Chrome extension that helps you prioritize your daily goals
 
 <img src="home.PNG"/>
 
+<img src="home2.PNG"/>
+
+
 ## Weather Report
 <img src="Weather.PNG"/>
 
